@@ -7,7 +7,6 @@ C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWeb
 C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.dll
 C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.pdb
-C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csprojAssemblyReference.cache
 C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfoInputs.cache
 C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfo.cs
 C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CoreCompileInputs.cache
@@ -33,3 +32,5 @@ C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWeb
 C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Estudos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs
